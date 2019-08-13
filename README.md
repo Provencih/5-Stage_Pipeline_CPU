@@ -16,7 +16,7 @@ This is a very simple implementation, just some basic funtionality was implement
 * Branch delay slot  
       
 
-Instructions are saved in im.v.
+Instructions are saved in im.v.  
 Default testing instruction sequence:  
 	32'h20100000; //       ADDI $16,$0,0  
 	32'h20110000; //       ADDI $17,$0,0  
